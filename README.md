@@ -41,9 +41,9 @@ ________________________________________________________________________________
 
 I'll post a video of the bot running. For now, 
 
-> Follow me on instgram: https://www.instagram.com/entropialive707/
-> Whatch me making music on YT: https://www.youtube.com/c/ENTROPIAENTALPIALIVE/
-> Follow me on Twitter: https://twitter.com/EntropiaLive
+- Follow me on instgram: https://www.instagram.com/entropialive707/
+- Whatch me making music on YT: https://www.youtube.com/c/ENTROPIAENTALPIALIVE/
+- Follow me on Twitter: https://twitter.com/EntropiaLive
 
 
 
