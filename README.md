@@ -19,8 +19,7 @@ Created with node.js and Puppeteer.
  (of course you must have an account for the bot to use :] )
   
   this is the part of the code to be changed:
-  
-  // achando o login e senha (campos) e preenchendo com os do usuário
+
   await page.type('#id_username', 'TYPE YOUR USER NAME HERE')
   await page.type('#id_password', 'TYPE YOUR PASSWORD HERE')
 
