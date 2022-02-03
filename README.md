@@ -1,5 +1,5 @@
 # Entropia sample downloader bot
-Bot that runs in the terminal and automatically downloads free samples based in a key-world and an amount in the freesound.org website.
+Bot that runs in the terminal and automatically downloads free samples based in a key-world and an amount of files in the https://freesound.org website.
 
 Created with node.js and Puppeteer.
 
