@@ -4,15 +4,19 @@ Bot that runs in the terminal and automatically downloads samples based in a key
 Created with node.js and Puppeteer.
 
 
-                     /|
+<!--                 /|
        =  =  =      / |
   ____| || || |____/  | -_-_-_-_-_-_
 |)----| || || |____   |     AH
   ((  | || || |  ))\  | _-_-_-_-_-_-
    \\_|_||_||_|_//  \ |
     \___________/    \|
-    
+     -->
 
 > Follow me on instgram: https://www.instagram.com/entropialive707/
 > Whatch me making music on YT: https://www.youtube.com/c/ENTROPIAENTALPIALIVE/
 > Follow me on Twitter: https://twitter.com/EntropiaLive
+
+
+
+![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
