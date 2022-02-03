@@ -45,5 +45,3 @@ I'll post a video of the bot running. For now,
 - Follow me on Twitter: https://twitter.com/EntropiaLive
 
 
-
-![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
