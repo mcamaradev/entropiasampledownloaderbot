@@ -37,7 +37,9 @@ Created with node.js and Puppeteer.
 
 __________________________________________________________________________________
 
-## That is all folks :) I'll post a video of the bot running.
+## That is all folks :)
+
+I'll post a video of the bot running. For now, 
 
 > Follow me on instgram: https://www.instagram.com/entropialive707/
 > Whatch me making music on YT: https://www.youtube.com/c/ENTROPIAENTALPIALIVE/
