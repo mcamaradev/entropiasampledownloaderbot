@@ -36,7 +36,7 @@ Created with node.js and Puppeteer.
 
 __________________________________________________________________________________
 
-## That is all folks :)
+#### That is all folks :)
 
 I'll post a video of the bot running. For now, 
 
